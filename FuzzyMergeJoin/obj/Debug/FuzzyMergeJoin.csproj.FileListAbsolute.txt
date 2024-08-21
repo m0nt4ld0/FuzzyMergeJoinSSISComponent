@@ -1,0 +1,7 @@
+C:\Users\montaldom\Documents\Visual Studio 2012\projects\FuzzyMergeJoin\FuzzyMergeJoin\bin\Debug\FuzzyMergeJoin.dll
+C:\Users\montaldom\Documents\Visual Studio 2012\projects\FuzzyMergeJoin\FuzzyMergeJoin\bin\Debug\FuzzyMergeJoin.pdb
+C:\Users\montaldom\Documents\Visual Studio 2012\projects\FuzzyMergeJoin\FuzzyMergeJoin\obj\Debug\FuzzyMergeJoin.FuzzyMergeJoinDialog.resources
+C:\Users\montaldom\Documents\Visual Studio 2012\projects\FuzzyMergeJoin\FuzzyMergeJoin\obj\Debug\FuzzyMergeJoin.Resource1.resources
+C:\Users\montaldom\Documents\Visual Studio 2012\projects\FuzzyMergeJoin\FuzzyMergeJoin\obj\Debug\FuzzyMergeJoin.csproj.GenerateResource.Cache
+C:\Users\montaldom\Documents\Visual Studio 2012\projects\FuzzyMergeJoin\FuzzyMergeJoin\obj\Debug\FuzzyMergeJoin.dll
+C:\Users\montaldom\Documents\Visual Studio 2012\projects\FuzzyMergeJoin\FuzzyMergeJoin\obj\Debug\FuzzyMergeJoin.pdb
